@@ -16,6 +16,7 @@ public class SomeApp {
 		
 		//branch 1: commit 2
 		
+		//branch 2: Commit 2
 	}
 
 }
