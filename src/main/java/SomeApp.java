@@ -12,7 +12,8 @@ public class SomeApp {
 		//d/git/SomeProject (feature/task-1)
     //+
 		//d/git/SomeProject (feature/task-2)
-    //to develop
+		
+		//branch 2: Commit 2
 	}
 
 }
