@@ -6,6 +6,9 @@ public class SomeApp {
 		System.out.println("SomeApp.main() called");
 		
 		SomeBean bean = new SomeBean();
+		
+		//This is branch:
+		//d/git/SomeProject (feature/task-1)
 	}
 
 }
