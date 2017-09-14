@@ -6,5 +6,7 @@ public class SomeBean {
 	
 	//This is branch:
 	//d/git/SomeProject (feature/task-2)
+	
+	//branch 2: Commit 2
 
 }
