@@ -13,4 +13,5 @@ public class SomeBean {
 	
 	//branch 2: Commit 2
 
+	//branch 1: commit 2
 }
