@@ -6,6 +6,8 @@ public class SomeApp {
 		System.out.println("SomeApp.main() called");
 		
 		SomeBean bean = new SomeBean();
+		
+		System.out.println("This is branch Master: changes #1");
 	}
 
 }
