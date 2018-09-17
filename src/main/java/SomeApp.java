@@ -17,6 +17,10 @@ public class SomeApp {
 		//branch 1: commit 2
 		
 		//branch 2: Commit 2
+		
+		System.out.println("This is local changes of feature/task-1 branch #1 !!!!");
+
+		System.out.println("This is branch Master: changes #1");
 	}
 
 }

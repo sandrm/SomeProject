@@ -5,7 +5,8 @@ public class SomeBean {
 		
 		//This is branch:
 		//d/git/SomeProject (feature/task-1)
-
+		
+		System.out.println("This is local changes of feature/task-1 branch , # 2 !");
 	}
 	
 	//This is branch:
@@ -14,4 +15,6 @@ public class SomeBean {
 	//branch 2: Commit 2
 
 	//branch 1: commit 2
+	
+	
 }
