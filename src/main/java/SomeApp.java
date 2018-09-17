@@ -8,6 +8,8 @@ public class SomeApp {
 		SomeBean bean = new SomeBean();
 		
 		System.out.println("This is branch Master: changes #1");
+		
+		System.out.println("This is branch Master: changes #2");
 	}
 
 }
