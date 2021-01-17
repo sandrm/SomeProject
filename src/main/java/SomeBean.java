@@ -6,6 +6,10 @@ public class SomeBean {
 		//This is branch:
 		//d/git/SomeProject (feature/task-1)
 
+
+		//This text added into branch feature/task-2021-2
+		System.out.println("This is branch feature/task-2021-2");
+
 	}
 	
 	//This is branch:
@@ -13,5 +17,7 @@ public class SomeBean {
 	
 	//branch 2: Commit 2
 
-	//branch 1: commit 2
+
+
+
 }
