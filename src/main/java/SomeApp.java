@@ -21,6 +21,10 @@ public class SomeApp {
 		//This text added into branch feature/task-2021-2
 		System.out.println("This is branch feature/task-2021-2");
 
+
+		//This text added into branch feature/task-2021-1
+		System.out.println("This is branch feature/task-2021-1");
 	}
+
 
 }
