@@ -18,4 +18,6 @@ public class SomeBean {
 	//branch 2: Commit 2
 
 
+
+
 }
