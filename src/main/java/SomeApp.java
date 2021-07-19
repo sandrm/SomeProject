@@ -23,6 +23,8 @@ public class SomeApp {
 
 		//branch feature/task-2021-2: changes #3
 		System.out.println("This is branch feature/task-2021-2: changes #3");
+
+		System.out.println("This is branch feature/task-2021-2: changes #4 - Before Amend message");
 	}
 
 }
